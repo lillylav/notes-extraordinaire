@@ -1,7 +1,6 @@
 const router = require('express').Router();
 const fs = require('fs');
 let { notes } = require('../../db/db.json');
-const { createNewNote, validateNote } = require('../../lib/notes');
 
 
 // display notes if any in array
@@ -30,7 +29,7 @@ router.post('/notes', (req, res) => {
     res.json(notes);
 });
 
-// 
+// delete existing notes and update array
 router.delete('/notes/:id', (req, res) => {
     let keeperNotes = [];
 
