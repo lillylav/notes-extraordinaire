@@ -1,4 +1,4 @@
-import express, { static, urlencoded, json } from 'express';
+const express = require('express');
 const apiRoutes = require('./routes/apiRoutes/apiRoutes');
 const htmlRoutes = require('./routes/htmlRoutes/htmlRoutes');
 
