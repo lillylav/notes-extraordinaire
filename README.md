@@ -12,8 +12,8 @@ This application can be used to keep notes.
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/93904532/158461386-deaa2bd3-272b-413a-8a3b-0322fd8a922e.png)
 
-## Tests
-N/A
+## Deployed Application
+https://cryptic-plains-89974.herokuapp.com/notes
 
 ## Contributing
 Please make sure to create a feature or bug branch off of the develop branch and push to that then make a pull request when ready to merge with the develop branch so all updates to the code can be checked and approved.
