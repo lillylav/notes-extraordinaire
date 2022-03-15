@@ -17,13 +17,11 @@
   },
   "homepage": "https://github.com/lillylav/notes-extraordinaire#readme",
   "devDependencies": {
-    "express": "^4.17.3",
     "fs": "^0.0.1-security",
     "nodemon": "^2.0.15",
     "path": "^0.12.7"
   },
   "dependencies": {
-    "latest": "^0.2.0",
-    "stable": "^0.1.8"
+    "express": "^4.17.3"
   }
 }
