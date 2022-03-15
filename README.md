@@ -9,6 +9,9 @@ JavaScript,Node.js,Express.js
 ## Usage
 This application can be used to keep notes.
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/93904532/158461386-deaa2bd3-272b-413a-8a3b-0322fd8a922e.png)
+
 ## Tests
 N/A
 
